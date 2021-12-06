@@ -85,13 +85,13 @@ function getSteps() {
 function getStepContent(step) {
   switch (step) {
     case 1:
-      return "Tu identidad";
+      return "Texto 1";
     case 2:
-      return "Historial de crédito";
+      return "Texto 2";
     case 3:
-      return "Domicilio particular";
+      return "Texto 3";
     case 4:
-      return "Depósito";
+      return "Texto 4";
     default:
   }
 }
